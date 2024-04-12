@@ -1,6 +1,6 @@
 # CO2 Emission Trends and Electric Vehicle Sales Analysis
 
-![CO2 Emission Trends and Electric Vehicle Sales Analysis](https://your-image-url.com)
+![CO2 Emission Trends and Electric Vehicle Sales Analysis](image.png)
 
 Explore the dynamic relationship between CO2 emissions since 1850 and Electric Vehicle (EV) sales in this repository. Analyze historical trends, correlation insights, and future implications. Contribute to advancing sustainable mobility understanding. Licensed under MIT. Join us in shaping a greener future.
 
